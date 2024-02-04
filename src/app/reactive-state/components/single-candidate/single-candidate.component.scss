@@ -1,0 +1,21 @@
+mat-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.employee-info {
+  display: flex;
+  flex-direction: column ;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  margin: 5px;
+}
